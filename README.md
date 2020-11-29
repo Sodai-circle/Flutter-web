@@ -5,7 +5,7 @@
 - 途中remote-containerを開かないといけないので動画を参考にしてください。
 
 - 動画
-   - ![参考動画](https://gitlab.com/welcome-to-sodai/flutter-web/-/raw/master/video.gif?inline=false)
+   - [参考動画](https://gitlab.com/welcome-to-sodai/flutter-web/-/raw/master/video.mov?inline=false)
 
 ## FlutterDock
 
